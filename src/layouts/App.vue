@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script setup>
 import Navbar from '@/components/app/Navbar.vue';
 import Breadcrumb from '@/components/app/Breadcrumb.vue';
 </script>
