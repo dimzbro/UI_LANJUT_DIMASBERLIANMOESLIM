@@ -35,7 +35,7 @@ defineEmits(['view-detail', 'complete', 'delete']);
           View Details
         </button>
         <button class="btn-action btn-complete" @click="$emit('complete', event)">
-          ✔ Complete Event
+          Complete Event
         </button>
         <button class="btn-action btn-delete" @click="$emit('delete', event)">
           Delete
